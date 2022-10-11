@@ -1,0 +1,15 @@
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\bin\Debug\net6.0\Две_Игры.exe
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\bin\Debug\net6.0\Две_Игры.deps.json
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\bin\Debug\net6.0\Две_Игры.runtimeconfig.json
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\bin\Debug\net6.0\Две_Игры.dll
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\bin\Debug\net6.0\Две_Игры.pdb
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\obj\Debug\net6.0\Две_Игры.csproj.AssemblyReference.cache
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\obj\Debug\net6.0\Две_Игры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\obj\Debug\net6.0\Две_Игры.AssemblyInfoInputs.cache
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\obj\Debug\net6.0\Две_Игры.AssemblyInfo.cs
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\obj\Debug\net6.0\Две_Игры.csproj.CoreCompileInputs.cache
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\obj\Debug\net6.0\Две_Игры.dll
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\obj\Debug\net6.0\refint\Две_Игры.dll
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\obj\Debug\net6.0\Две_Игры.pdb
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\obj\Debug\net6.0\Две_Игры.genruntimeconfig.cache
+C:\Users\Tenru\source\repos\ОАИП C#\Две_Игры\Две_Игры\obj\Debug\net6.0\ref\Две_Игры.dll
